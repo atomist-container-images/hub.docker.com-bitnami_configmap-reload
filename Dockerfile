@@ -1,12 +1,42 @@
-# Tags: latest, 0.7.1-debian-10-r81, 0.7.1, 0-debian-10, 0
+# Tags: latest, 0.7.1-debian-10-r91, 0.7.1, 0-debian-10, 0
 FROM bitnami/configmap-reload:latest
-FROM bitnami/configmap-reload:0.7.1-debian-10-r81
+FROM bitnami/configmap-reload:0.7.1-debian-10-r91
 FROM bitnami/configmap-reload:0.7.1
 FROM bitnami/configmap-reload:0-debian-10
 FROM bitnami/configmap-reload:0
 
 # Tags: _
 FROM bitnami/configmap-reload:_
+
+# Tags: 0.7.1-debian-10-r90
+FROM bitnami/configmap-reload:0.7.1-debian-10-r90
+
+# Tags: 0.7.1-debian-10-r89
+FROM bitnami/configmap-reload:0.7.1-debian-10-r89
+
+# Tags: 0.7.1-debian-10-r88
+FROM bitnami/configmap-reload:0.7.1-debian-10-r88
+
+# Tags: 0.7.1-debian-10-r87
+FROM bitnami/configmap-reload:0.7.1-debian-10-r87
+
+# Tags: 0.7.1-debian-10-r86
+FROM bitnami/configmap-reload:0.7.1-debian-10-r86
+
+# Tags: 0.7.1-debian-10-r85
+FROM bitnami/configmap-reload:0.7.1-debian-10-r85
+
+# Tags: 0.7.1-debian-10-r84
+FROM bitnami/configmap-reload:0.7.1-debian-10-r84
+
+# Tags: 0.7.1-debian-10-r83
+FROM bitnami/configmap-reload:0.7.1-debian-10-r83
+
+# Tags: 0.7.1-debian-10-r82
+FROM bitnami/configmap-reload:0.7.1-debian-10-r82
+
+# Tags: 0.7.1-debian-10-r81
+FROM bitnami/configmap-reload:0.7.1-debian-10-r81
 
 # Tags: 0.7.1-debian-10-r80
 FROM bitnami/configmap-reload:0.7.1-debian-10-r80
@@ -64,33 +94,3 @@ FROM bitnami/configmap-reload:0.7.1-debian-10-r63
 
 # Tags: 0.7.1-debian-10-r62
 FROM bitnami/configmap-reload:0.7.1-debian-10-r62
-
-# Tags: 0.7.1-debian-10-r61
-FROM bitnami/configmap-reload:0.7.1-debian-10-r61
-
-# Tags: 0.7.1-debian-10-r60
-FROM bitnami/configmap-reload:0.7.1-debian-10-r60
-
-# Tags: 0.7.1-debian-10-r59
-FROM bitnami/configmap-reload:0.7.1-debian-10-r59
-
-# Tags: 0.7.1-debian-10-r58
-FROM bitnami/configmap-reload:0.7.1-debian-10-r58
-
-# Tags: 0.7.1-debian-10-r57
-FROM bitnami/configmap-reload:0.7.1-debian-10-r57
-
-# Tags: 0.7.1-debian-10-r56
-FROM bitnami/configmap-reload:0.7.1-debian-10-r56
-
-# Tags: 0.7.1-debian-10-r55
-FROM bitnami/configmap-reload:0.7.1-debian-10-r55
-
-# Tags: 0.7.1-debian-10-r54
-FROM bitnami/configmap-reload:0.7.1-debian-10-r54
-
-# Tags: 0.7.1-debian-10-r53
-FROM bitnami/configmap-reload:0.7.1-debian-10-r53
-
-# Tags: 0.7.1-debian-10-r52
-FROM bitnami/configmap-reload:0.7.1-debian-10-r52
